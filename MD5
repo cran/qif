@@ -1,0 +1,16 @@
+4ed538a8054ad7983d76b273ddde1fc7 *DESCRIPTION
+30ef66b8faac98231bdf4de6a7e925c2 *NAMESPACE
+42da80af706c9fae810f008df483b29e *R/data.R
+71d7edd9f8abf4abc0566b8ff216342d *R/qif.r
+d43a3885a15a96da0c77416a3485441c *README.md
+5406d823fefe7d8b1894cb028741d695 *data/epil.RData
+57ddef572a7246ca90dd98a3994df045 *data/exacerb.RData
+b779c4ad0757f55a1becf298b80ba742 *man/epil.Rd
+31849fec48b8986ef06adfd46587c35e *man/exacerb.Rd
+66cb7446c09cba5456578d205806fa14 *man/print.qif.Rd
+9354162a283327cd7e366bbcee10d2b6 *man/print.summary.qif.Rd
+2dc15025bc64dd5875248b678fb2ff06 *man/qif.Rd
+8f750ee465cfb085385f9fe98a4f79fe *man/summary.qif.Rd
+2fa4c7011c2bc0f7449ae151d5cc44ae *src/Makevars
+393af672710ebb150d6e04d86866e506 *src/finv.f
+997fb5e69777a430225653cf5738800e *src/qif_init.c
